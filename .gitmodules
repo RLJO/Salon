@@ -354,3 +354,7 @@
 	path = care_center
 	url = https://github.com/RL-OtherApps/care_center.git
 	branch = 12.0
+[submodule "connector-telephony"]
+	path = connector-telephony
+	url = https://github.com/OCA-MUK/connector-telephony.git
+	branch = 12.0
