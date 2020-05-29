@@ -362,3 +362,7 @@
 	path = Odoo
 	url = https://github.com/RL-OtherApps/Odoo.git
 	branch = 12.0
+[submodule "Beauty-Spa-Management"]
+	path = Beauty-Spa-Management
+	url = https://github.com/RL-OtherApps/Beauty-Spa-Management.git
+	branch = 12.0
