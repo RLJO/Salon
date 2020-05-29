@@ -358,3 +358,7 @@
 	path = connector-telephony
 	url = https://github.com/OCA-MUK/connector-telephony.git
 	branch = 12.0
+[submodule "Odoo"]
+	path = Odoo
+	url = https://github.com/RL-OtherApps/Odoo.git
+	branch = 12.0
