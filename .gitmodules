@@ -366,3 +366,8 @@
 	path = Beauty-Spa-Management
 	url = https://github.com/RL-OtherApps/Beauty-Spa-Management.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/Beauty-Spa-Management"]
+	path = RL-OtherApps/Beauty-Spa-Management
+	url = git@github.com:RL-OtherApps/Beauty-Spa-Management.git
+	branch = 12.0
